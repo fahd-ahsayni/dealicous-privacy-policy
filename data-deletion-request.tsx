@@ -17,7 +17,7 @@ export default function DataDeletionRequest() {
               D
             </div>
             <h1 className="text-4xl font-bold bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
-              Delicious
+              dealicious
             </h1>
           </div>
           <h2 className="text-2xl font-semibold text-gray-800 mb-2 flex items-center justify-center gap-2">
@@ -98,8 +98,8 @@ export default function DataDeletionRequest() {
                 </p>
                 <p className="text-gray-600">
                   Contact our privacy team at{" "}
-                  <a href="mailto:privacy@deliciousapp.com" className="text-orange-600 hover:underline">
-                    privacy@deliciousapp.com
+                  <a href="mailto:privacy@dealiciousapp.com" className="text-orange-600 hover:underline">
+                    privacy@dealiciousapp.com
                   </a>
                 </p>
               </div>
